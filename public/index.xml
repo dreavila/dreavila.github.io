@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mi Blog</title>
-    <link>http://localhost/</link>
+    <link>http://localhost:1313/dreavila/dreavila.github.io.git/</link>
     <description>Recent content on Mi Blog</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Wed, 07 Oct 2026 20:17:17 -0600</lastBuildDate>
-    <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Oct 2026 21:09:33 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/dreavila/dreavila.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi Tercer Articulo</title>
+      <link>http://localhost:1313/dreavila/dreavila.github.io.git/posts/mi-tercer-articulo/</link>
+      <pubDate>Wed, 07 Oct 2026 21:09:33 -0600</pubDate>
+      <guid>http://localhost:1313/dreavila/dreavila.github.io.git/posts/mi-tercer-articulo/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Mi Segundo Articulo</title>
-      <link>http://localhost/posts/mi-segundo-articulo/</link>
+      <link>http://localhost:1313/dreavila/dreavila.github.io.git/posts/mi-segundo-articulo/</link>
       <pubDate>Wed, 07 Oct 2026 20:17:17 -0600</pubDate>
-      <guid>http://localhost/posts/mi-segundo-articulo/</guid>
+      <guid>http://localhost:1313/dreavila/dreavila.github.io.git/posts/mi-segundo-articulo/</guid>
       <description>&lt;p&gt;¡Bienvenidos a mi nuevo blog construido con Hugo!&lt;/p&gt;
 &lt;p&gt;Aquí puedes escribir todo tu contenido utilizando &lt;strong&gt;Markdown&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -20,6 +27,13 @@
 &lt;li&gt;&lt;a href=&#34;https://ejemplo.com&#34;&gt;Enlaces&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Fragmentos de código&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Mi Primer Post</title>
+      <link>http://localhost:1313/dreavila/dreavila.github.io.git/posts/mi-primer-post/</link>
+      <pubDate>Thu, 01 Oct 2026 21:08:00 -0600</pubDate>
+      <guid>http://localhost:1313/dreavila/dreavila.github.io.git/posts/mi-primer-post/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

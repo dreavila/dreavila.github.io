@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/</loc>
+    <loc>http://localhost:1313/dreavila/dreavila.github.io.git/</loc>
+    <lastmod>2026-10-07T21:09:33-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dreavila/dreavila.github.io.git/posts/mi-tercer-articulo/</loc>
+    <lastmod>2026-10-07T21:09:33-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dreavila/dreavila.github.io.git/posts/</loc>
+    <lastmod>2026-10-07T21:09:33-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dreavila/dreavila.github.io.git/posts/mi-segundo-articulo/</loc>
     <lastmod>2026-10-07T20:17:17-06:00</lastmod>
   </url><url>
-    <loc>http://localhost/posts/mi-segundo-articulo/</loc>
-    <lastmod>2026-10-07T20:17:17-06:00</lastmod>
+    <loc>http://localhost:1313/dreavila/dreavila.github.io.git/posts/mi-primer-post/</loc>
+    <lastmod>2026-10-01T21:08:00-06:00</lastmod>
   </url><url>
-    <loc>http://localhost/posts/</loc>
-    <lastmod>2026-10-07T20:17:17-06:00</lastmod>
+    <loc>http://localhost:1313/dreavila/dreavila.github.io.git/categories/</loc>
   </url><url>
-    <loc>http://localhost/categories/</loc>
-  </url><url>
-    <loc>http://localhost/tags/</loc>
+    <loc>http://localhost:1313/dreavila/dreavila.github.io.git/tags/</loc>
   </url>
 </urlset>
