@@ -59,10 +59,9 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           hugo \
-            --gc \ # Garbage Collection: limpia archivos temporales innecesarios para reducir tamaño
-            --minify \ # Comprime el código HTML, CSS y JS para que tu blog cargue ultrarrápido
-            --baseURL "${{ steps.pages.outputs.base_url }}/" # Asigna automáticamente la URL pública
-
+            --gc \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
       # Paso 5: Empaqueta la carpeta /public (donde Hugo generó la web) para enviarla al siguiente paso
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
