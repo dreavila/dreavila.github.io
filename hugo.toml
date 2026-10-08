@@ -1,4 +1,4 @@
-baseURL = "http://localhost/"
+baseURL = "https://github.com/dreavila/dreavila.github.io.git"
 languageCode = "es-es"
 title = "Mi Blog"
 theme = "PaperMod"
